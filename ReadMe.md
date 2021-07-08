@@ -17,4 +17,4 @@
 
 Tushar Sharma or Troy - tas2124@gmail.com
 
-Project Link: [https://github.com/TusharSharma-CS/BinarySearch](https://github.com/TusharSharma-CS/BinarySearch)
+Project Link: [https://github.com/TusharSharma-CS/Binary-Search](https://github.com/TusharSharma-CS/Binary-Search)
