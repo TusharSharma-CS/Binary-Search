@@ -17,4 +17,4 @@
 
 Tushar Sharma or Troy - tas2124@gmail.com
 
-Project Link: [https://github.com/trrakee/notepadWebAPI](https://github.com/trrakee/notepadWebAPI)
+Project Link: [https://github.com/TusharSharma-CS/BinarySearch](https://github.com/TusharSharma-CS/BinarySearch)

@@ -21,16 +21,16 @@ class BinarySearch {
 		var scn = new Scanner(System.in);
 		System.out.println(
 				"First enter n in first line. In next n lines enter a number in each line. In last line enter target number");
-		System.out.println("enter size of array");
+		System.out.println("Enter size of array");
 		int n = scn.nextInt();
-		System.out.println("enter n integers");
+		System.out.println("Enter n integers");
 		int[] arr = new int[n];
 		for (int i = 0; i < n; i++) {
 			arr[i] = scn.nextInt();
 		}
 		Arrays.sort(arr);
 		scn.close();
-		System.out.println("enter target number");
+		System.out.println("Enter target number");
 		int target = scn.nextInt();
 		System.out.println("the target is at : " + binarySearch(arr, target));
 	}
